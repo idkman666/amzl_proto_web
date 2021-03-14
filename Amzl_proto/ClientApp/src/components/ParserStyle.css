@@ -1,0 +1,72 @@
+﻿
+.parserBody {  
+    justify-items: center;
+    display: flex;
+    
+    height: 500px;
+    
+}
+.addRouteHeader{
+    position:relative;
+    align-content: center;
+    width:auto;
+}
+
+#parser{
+    height: 100%;
+}
+ul.no-bullets {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+li>div>label{
+    margin-right: 10px;
+}
+li>textarea{
+    width: 300px;
+    display: flex;
+    margin-bottom: 30px;
+    height: 180px;
+}
+
+.formContent {
+    width: 400px;
+    margin-right: auto;
+    margin-left: auto;
+    display: flex;
+    border: 2px black solid;
+    padding-left: 50px;
+    padding-top: 50px;
+    box-shadow: 5px 10px #888888;
+}
+.form-check-label
+{
+    text-align: center;
+}
+.submitButton{
+    width: 100%;
+    
+}
+.submitButton > button{
+    width: 100px;
+    
+    margin-left: 80px;
+}
+td{
+    border: 2px black solid;   
+}
+td>a{
+    width: 100%;
+    align-content: center;
+}
+
+.header {
+    width: 100%;
+    justify-content: center;
+    margin-top: 2%;
+    margin-bottom: 2%;
+    display: inline-flex;
+    box-shadow: 2.5px 5px #888888;
+}
+

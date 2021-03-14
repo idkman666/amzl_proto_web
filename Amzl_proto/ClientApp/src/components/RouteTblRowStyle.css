@@ -1,0 +1,97 @@
+﻿.card-body {
+    height: 100px;
+}
+
+#cx-status {
+    width: 300px;
+    border: 2px solid black;
+}
+#WaveSelectBar {  
+    width: 100%;
+    align-content:center;
+}
+#WaveSelectBar > button {
+    margin-right: 10px;
+}
+    
+#zone-names {
+    width: 300px;    
+    border: 2px solid black;
+}
+
+#wave-status {
+    width: 300px;
+    border: 2px solid black;
+    color: black;
+}
+
+.route-cards {
+    display: inline-block;
+    height: 10%;
+}
+
+#innerContainer {
+    margin-top: 2px;
+    width: 900px;
+    display: inline-flex;
+    border: 2px black solid;
+}
+
+tr {
+    width: auto;
+}
+
+#askDropMenu {
+    align-content: center;
+}
+
+    #askDropMenu > button {
+        margin: 10px;
+    }
+
+#askDropMenuContainer {
+    border: 1px solid;
+    box-shadow: 5px 10px #888888;
+    width: 100%;
+    align-content: center;
+}
+
+h6 {
+    text-align: center
+}
+
+#searchField {
+    margin-left: 20px;
+    width: 30%;
+}
+
+.headerData {
+    align-content: flex-end;
+}
+
+#WAITING {
+    padding: 50px 50px 50px 50px;
+}
+
+    #WAITING > h6 {
+        color: black;
+    }
+
+#DROPPED {
+    background-color: red;
+    padding: 50px 50px 50px 50px;
+}
+
+    #DROPPED > h6 {
+        color: white;
+    }
+
+#CHECKED-IN {
+    background-color: greenyellow;
+    padding: 50px 50px 50px 50px;
+}
+
+    #CHECKED-IN > h6 {
+        color: black;
+    }
+
